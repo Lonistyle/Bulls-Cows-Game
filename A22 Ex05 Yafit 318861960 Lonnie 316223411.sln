@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.BoolPgia.Logic", "Program\Ex05.BoolPgia.Logic.csproj", "{13B859BD-77D4-40DB-B27D-C9570CFB3540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.BoolPgia.UI", "Ex05.BulPgia.UI\Ex05.BoolPgia.UI.csproj", "{34D5862A-35F7-4705-A7F9-E2378C3E06B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B859BD-77D4-40DB-B27D-C9570CFB3540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B859BD-77D4-40DB-B27D-C9570CFB3540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B859BD-77D4-40DB-B27D-C9570CFB3540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B859BD-77D4-40DB-B27D-C9570CFB3540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D5862A-35F7-4705-A7F9-E2378C3E06B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D5862A-35F7-4705-A7F9-E2378C3E06B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D5862A-35F7-4705-A7F9-E2378C3E06B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D5862A-35F7-4705-A7F9-E2378C3E06B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38BD2913-874B-405C-A8DA-B23BA39D8826}
+	EndGlobalSection
+EndGlobal
